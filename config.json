@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productcetch",
+        "uuid": 12218369,
+        "checksum": "671slg"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
